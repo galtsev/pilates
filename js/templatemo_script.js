@@ -38,7 +38,8 @@ jQuery(document).ready(function()
         //define map
         var map;
         //Lat lng
-        myLatlng = new google.maps.LatLng(16.795, 96.165)
+        //myLatlng = new google.maps.LatLng(16.795, 96.165)
+        myLatlng = new google.maps.LatLng(47.842622,35.131654)
         //define style
         var styles = [
             {
